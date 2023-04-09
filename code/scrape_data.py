@@ -13,6 +13,6 @@ soup = BeautifulSoup(response.text, 'html.parser')
 # extract the relevant data from the HTML
 data = soup.find_all('div', class_='some-class')
 
-# process the data as needed
+# process the data as needed 
 for item in data:
     # do something with each item
