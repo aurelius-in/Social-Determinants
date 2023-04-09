@@ -1,4 +1,4 @@
-# Project Name: Developing a Machine Learning System for Analyzing the Social Determinants of Mental Health and Improving Patient Outcomes
+# Developing a Machine Learning System for Analyzing the Social Determinants of Mental Health and Improving Patient Outcomes
 
 ## Description
 
